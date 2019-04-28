@@ -1,3 +1,3 @@
 def my_each(args)
-  # code here
+  yield(args)
 end
